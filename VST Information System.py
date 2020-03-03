@@ -1,0 +1,5 @@
+print ("*********************************************************")
+print ("* Virtual Sentinel Technology (VST): Information System *")
+print ("*********************************************************")
+name=intput("Name: ")
+print ("Welcome ", name, "! I am Kiko your assistant in this system!")
